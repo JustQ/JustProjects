@@ -17,7 +17,9 @@
     <sprite>sprites\spr_dmgup</sprite>
     <sprite>sprites\spr_hand</sprite>
     <sprite>sprites\spr_key</sprite>
-    <sprite>sprites\sprite11</sprite>
+    <sprite>sprites\spr_zombie</sprite>
+    <sprite>sprites\sprite12</sprite>
+    <sprite>sprites\sprite13</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -27,9 +29,11 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_key</object>
     <object>objects\obj_bomb</object>
+    <object>objects\object5</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
+    <room>rooms\room1</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>
