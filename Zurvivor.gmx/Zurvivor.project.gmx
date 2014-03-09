@@ -20,6 +20,14 @@
     <sprite>sprites\spr_zombie</sprite>
     <sprite>sprites\sprite12</sprite>
     <sprite>sprites\sprite13</sprite>
+    <sprite>sprites\sprite15</sprite>
+    <sprite>sprites\spr_shotgun</sprite>
+    <sprite>sprites\spr_silverbullets</sprite>
+    <sprite>sprites\spr_goldbullets</sprite>
+    <sprite>sprites\spr_hawk</sprite>
+    <sprite>sprites\spr_boots</sprite>
+    <sprite>sprites\spr_sandals</sprite>
+    <sprite>sprites\spr_cleets</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
@@ -29,7 +37,10 @@
     <object>objects\obj_wall</object>
     <object>objects\obj_key</object>
     <object>objects\obj_bomb</object>
-    <object>objects\object5</object>
+    <object>objects\obj_HUD</object>
+    <object>objects\obj_armor</object>
+    <object>objects\obj_uzi</object>
+    <object>objects\object8</object>
   </objects>
   <rooms name="rooms">
     <room>rooms\room0</room>
