@@ -43,6 +43,13 @@
       <object>objects\obj_bomb</object>
       <object>objects\obj_uzi</object>
       <object>objects\obj_armor</object>
+      <object>objects\obj_health</object>
+      <object>objects\obj_goldbullets</object>
+      <object>objects\obj_hpupgrade</object>
+      <object>objects\obj_boots</object>
+      <object>objects\obj_sandals</object>
+      <object>objects\obj_cleets</object>
+      <object>objects\obj_silverbullets</object>
     </objects>
     <object>objects\obj_bullet</object>
     <object>objects\obj_wall</object>
