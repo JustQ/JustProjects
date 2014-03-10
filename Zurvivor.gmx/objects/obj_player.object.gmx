@@ -26,9 +26,9 @@
           <argument>
             <kind>1</kind>
             <string>global.hp = 100;
-global.maxhp = 6;
+global.maxhp = 100;
 global.armor = 0;
-global.atk = 1;
+global.atk = 10;
 global.spd = 4;
 global.atkspd = 4;
 global.range = 20;
@@ -36,7 +36,6 @@ canShoot = true;
 global.keys = 0;
 global.bombs = 0;
 global.shoes = "None";
-//Thanks for doing all this code for me, Tommy!
 
 //Items "have" variables
 // This will be used for unlocking crap and drops
