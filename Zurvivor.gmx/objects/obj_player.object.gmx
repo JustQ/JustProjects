@@ -31,6 +31,7 @@ global.armor = 0;
 global.atk = 10;
 global.spd = 4;
 global.atkspd = 4;
+//atkspd (remember divided by 120)
 global.range = 20;
 canShoot = true;
 global.keys = 0;
