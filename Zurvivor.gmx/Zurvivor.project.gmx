@@ -53,6 +53,9 @@
       <object>objects\obj_sandals</object>
       <object>objects\obj_cleets</object>
       <object>objects\obj_silverbullets</object>
+      <object>objects\obj_finger</object>
+      <object>objects\obj_frog_tongue</object>
+      <object>objects\obj_beavteeth</object>
     </objects>
     <object>objects\obj_bullet</object>
     <object>objects\obj_wall</object>
