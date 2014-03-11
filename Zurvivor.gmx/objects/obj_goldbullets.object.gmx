@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>global.hasGoldBullets = true;
+global.atk += 4;
 instance_destroy();
 </string>
           </argument>

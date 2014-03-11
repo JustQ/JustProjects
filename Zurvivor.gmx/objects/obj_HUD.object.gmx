@@ -55,6 +55,7 @@ draw_text(X, Y, string(global.hp) + "/" + string(global.maxhp) + " Energy");
 draw_text(X, Y+15, string(global.armor) + " Armor");
 draw_text(X, Y+30, string(global.bombs) + " Bombs");
 draw_text(X, Y+45, string(global.keys) + " Keys");
+draw_text(X, Y+60, string(global.atk) + " ATK");
 draw_text(X+400, Y, "Shoes: " + string(global.shoes));
 </string>
           </argument>

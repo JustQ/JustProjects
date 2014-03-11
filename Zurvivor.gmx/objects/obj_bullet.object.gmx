@@ -75,12 +75,13 @@ alarm[0] = global.range;
             <kind>1</kind>
             <string>if global.hasSilverBullets = true 
 {
-
+sprite_index = spr_silverbullet;
 }
 if global.hasGoldBullets = true 
 {
-
+sprite_index = spr_goldbullet;
 }
+
 </string>
           </argument>
         </arguments>

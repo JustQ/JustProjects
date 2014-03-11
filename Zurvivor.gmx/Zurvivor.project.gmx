@@ -10,6 +10,8 @@
       <sprite>sprites\spr_frank_walk</sprite>
       <sprite>sprites\spr_frank</sprite>
     </sprites>
+    <sprite>sprites\spr_silverbullet</sprite>
+    <sprite>sprites\spr_goldbullet</sprite>
     <sprite>sprites\spr_bullet</sprite>
     <sprites name="Items">
       <sprite>sprites\spr_cleets</sprite>
@@ -53,7 +55,6 @@
       <object>objects\obj_sandals</object>
       <object>objects\obj_cleets</object>
       <object>objects\obj_silverbullets</object>
-      <object>objects\obj_finger</object>
       <object>objects\obj_frog_tongue</object>
       <object>objects\obj_beavteeth</object>
     </objects>

@@ -26,6 +26,7 @@
           <argument>
             <kind>1</kind>
             <string>global.hasSilverBullets = true;
+global.atk += 2;
 instance_destroy();
 </string>
           </argument>
