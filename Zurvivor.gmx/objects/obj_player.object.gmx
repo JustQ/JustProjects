@@ -134,7 +134,6 @@ sprite_index = spr_frank;
 }
 if hasGoldBullets = true {
 atk += 4;
-break;
 }
 }
 </string>
